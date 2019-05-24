@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pegawai>    
+	<data kd_peg="0101">
+		<nama>Safea Hafsah Arsyila</nama>
+		<umur>25</umur>
+		<alamat>Bantul</alamat>
+	</data>
+	
+		
+<data kd_peg="0103"><nama>Azis Kurniawan</nama><umur>30</umur><alamat>Yogya</alamat></data><data kd_peg="0104"><nama>Agus Wari</nama><umur>45</umur><alamat>Sleman</alamat></data><data kd_peg="0105"><nama>Rismey</nama><umur>25</umur><alamat>Srandakan - Bantul</alamat></data><data kd_peg="0102"><nama>Sashie</nama><umur>21</umur><alamat>Bantul</alamat></data></pegawai>
